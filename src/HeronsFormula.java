@@ -1,6 +1,6 @@
 //Program number 44 (Heron’s Formula)
 
-package assignment1;
+package com.techment.assignmentsLogicBuild;
 import java.math.*;
 import java.util.Scanner;
 
