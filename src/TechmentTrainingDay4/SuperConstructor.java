@@ -1,4 +1,4 @@
-package TechmentTrainingDay4;
+package techmentTrainingDay4;
 
 class Parent1{
 	int a;

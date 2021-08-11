@@ -1,4 +1,4 @@
-package TechmentTrainingDay4;
+package techmentTrainingDay4;
 
 public class Hello {
 

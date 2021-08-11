@@ -1,4 +1,4 @@
-package ArrayAssignment;
+package arrayAssignment;
 
 import java.util.Scanner;
 class Number{

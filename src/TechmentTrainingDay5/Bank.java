@@ -1,4 +1,4 @@
-package TechmentTrainingDay5;
+package techmentTrainingDay5;
 
 abstract class Bank2{
 	void Eligibility()

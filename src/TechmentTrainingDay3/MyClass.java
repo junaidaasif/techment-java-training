@@ -1,4 +1,4 @@
-package TechmentTrainingDay3;
+package techmentTrainingDay3;
 
 import java.util.Scanner;
 

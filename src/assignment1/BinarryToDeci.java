@@ -1,3 +1,4 @@
+//Program num 48 binarry to decimal
 package assignment1;
 
 import java.util.Scanner;

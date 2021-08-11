@@ -6,7 +6,7 @@ class LateException extends Exception{
 	}
 }
 
-public class Student {
+class Student {
 	void login(int time) throws LateException{
 		if(time>9)
 			throw new LateException("you are absent");

@@ -1,4 +1,4 @@
-package TechmentTrainingDay1;
+package techmentTrainingDay1;
 
 public class Reverse {
 

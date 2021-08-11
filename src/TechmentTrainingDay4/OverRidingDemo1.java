@@ -1,4 +1,4 @@
-package TechmentTrainingDay4;
+package techmentTrainingDay4;
 
 class Bank{
 	public void rateOfIntrest() {

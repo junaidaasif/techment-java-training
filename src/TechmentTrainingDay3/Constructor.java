@@ -1,4 +1,4 @@
-package TechmentTrainingDay3;
+package techmentTrainingDay3;
 
 public class Constructor {
 

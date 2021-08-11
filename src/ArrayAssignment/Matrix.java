@@ -1,4 +1,4 @@
-package ArrayAssignment;
+package arrayAssignment;
 
 public class Matrix {
 

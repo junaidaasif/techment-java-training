@@ -1,4 +1,4 @@
-package TechmentTrainingDay2;
+package techmentTrainingDay2;
 
 public class PrintEven {
 
