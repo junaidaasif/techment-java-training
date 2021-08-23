@@ -8,8 +8,9 @@ public class EmployeeTest3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Employee1 emp1 = new Employee1("junaid", "mohmmad");
-		Employee1 emp3 = new Employee1("nu", "ul");
 		Employee1 emp2 = new Employee1(null, null);
+		Employee1 emp3 = new Employee1("nu", "ul");
+//		Employee1 emp3 = new Employee1("nu", "ul");
 		try {
 			emp1.validation();
 			emp2.validation();

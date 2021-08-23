@@ -1,0 +1,13 @@
+PNR:        : BC_20210816_100
+Train no    : 1005
+Train Name  : Brindavan
+Express
+  From      : Bangalore
+To          : Chennai
+Travel Date : Fri Dec 11 00:00:00 IST 2020
+Passengers  : 
+
+Name : krishna Age: 56 Gender: M Fare : 1000.0
+Name : mk Age: 45 Gender: F Fare : 250.0
+
+ Total Price : 2500.0
