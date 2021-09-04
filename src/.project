@@ -14,4 +14,26 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Stream Assignment</name>
+			<type>2</type>
+			<location>C:/Users/Junaid/Downloads/Techment-main/Techment-main/------All Assignment------/Stream Assignment</location>
+		</link>
+		<link>
+			<name>exceptionAssignment/one</name>
+			<type>2</type>
+			<location>C:/Users/Junaid/Downloads/Techment-main/Techment-main/------All Assignment------/Exception Assignment/src/com/techment/question/one</location>
+		</link>
+		<link>
+			<name>exceptionAssignment/three</name>
+			<type>2</type>
+			<location>C:/Users/Junaid/Downloads/Techment-main/Techment-main/------All Assignment------/Exception Assignment/src/com/techment/question/three</location>
+		</link>
+		<link>
+			<name>exceptionAssignment/two</name>
+			<type>2</type>
+			<location>C:/Users/Junaid/Downloads/Techment-main/Techment-main/------All Assignment------/Exception Assignment/src/com/techment/question/two</location>
+		</link>
+	</linkedResources>
 </projectDescription>
